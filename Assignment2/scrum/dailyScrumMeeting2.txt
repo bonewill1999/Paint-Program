@@ -1,0 +1,98 @@
+# Fill in, commit and push each day.
+# Group Member: bonewill
+Oct 28, 2018
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Oct 29, 2018
+	Yesterday : N/A
+	Today     : Decided on meEting at DH tmmr at 5pm.
+	Obstacles : N/A
+
+Oct 30, 2018
+	Yesterday : Discussed first group meeting.
+	Today     : Divided work on product backlog, I will be doing US3, US4, sUS6
+	Obstacles : Figuring out who will do what on this sprint.
+
+Oct 31, 2018
+	Yesterday : Divided work on product backlog, I will be doing US3, US4, US6
+	Today     : Completed most of work on UserStory3
+	Obstacles : Working around the odd architecture off the program 
+
+Nov 1, 2018
+	Yesterday : Completed most of work on UserStory3
+	Today     : Finished UserStory3 and UserStory 4 as well as Finishing most of 		   		  Userstory3. I also ended up fixing bug4 and bug5 in branch "UserStory7"                      without realizing it. Thus these changes are stated withing the commit 		          messages of branch "UserStory7"
+	Obstacles : Reorginizing methods in PaintPanel to fit into a cleaner, more modular 
+		    architecture.
+
+Nov 2, 2018
+	Yesterday :
+	Today     : Made more changes slight changes to UserStory7
+	Obstacles : Figuring out the best way to select line thickness 
+
+Nov 3, 2018
+	Yesterday :
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 4, 2018
+	Yesterday :
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 5, 2018
+	Yesterday :
+	Today     : Finished UserStory7
+	Obstacles : N/A
+
+Nov 6, 2018
+	Yesterday :
+	Today     : Tryed to work with sliders for line thickness
+	Obstacles : Getting the slider to send back values to the model
+
+Nov 7, 2018
+	Yesterday :
+	Today     : Assigned roles for Sprint two
+	Obstacles : Figuring out which bugs and stories to prioritize amoungst our members
+
+Nov 8, 2018
+	Yesterday :
+	Today     : Finished bug 4 
+	Obstacles : Orginized the architecture to make it more modual
+
+Nov 9, 2018
+	Yesterday :
+	Today     : assigned rolls for sprint 3
+	Obstacles :
+
+Nov 10, 2018
+	Yesterday :
+	Today     :N/A
+	Obstacles :
+	
+Nov 11, 2018
+	Yesterday :
+	Today     :N/A
+	Obstacles :
+	
+Nov 12, 2018
+	Yesterday :
+	Today     :N/A
+	Obstacles :
+
+Nov 13, 2018
+	Yesterday :
+	Today     :N/A
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday :
+	Today     : Finished Bug7
+	Obstacles : Interpreting what exactly was wanted by bug7 in the Product Backlog
+
+Nov 15, 2018
+	Yesterday :
+	Today     : Added and finished Javadocs, as well as attempted to finish UserStory14
+	Obstacles : Trying to erase shapes that had already been drawn. Sadly this userstory 		    was not completed.
+

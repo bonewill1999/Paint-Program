@@ -1,0 +1,103 @@
+# Fill in, commit and push each day.
+# Group Member: chanja60
+Oct 28, 2018
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Oct 29, 2018
+	Yesterday : N/A
+	Today     : Decided on meEting at DH tmmr at 5pm.
+	Obstacles : N/A
+
+Oct 30, 2018
+	Yesterday : Discussed first group meeting.
+	Today     : Divided work on product backlog, Started working on US1, basically done.
+	Obstacles : Figuring out who will do what on this sprint.
+
+Oct 31, 2018
+	Yesterday : Researched git branching
+	Today     : Finished US1. Started US2
+	Obstacles : I had a bit of trouble finding out what the different MouseEvents mean.
+
+Nov 1, 2018
+	Yesterday : I started US2, but had some problems learning how to show the dragging of the circle
+	Today     : Finished US2. Starting B1
+	Obstacles : I had some trouble learning how to add images into a button.
+
+
+Nov 2, 2018
+	Yesterday : Had troubles with adding pictures to buttons, but learned after reading several docs
+	Today     : Added icons to four items in the shapes, i don't know what the last item is... (B1)
+	Obstacles : At first i had trouble getting the right size image for the icons, after many tries, i concluded 
+				that 16 by 16 is the ideal size. Another problem I have is that I don't know how to get rid of all
+				the text. Right now there is an icon and the name on the shape. Since PaintPanel "reads" the label
+				and the finds out what to do, I don't know how to fix this.
+Nov 3, 2018
+	Yesterday : Had the problems with adding icons as stated above.
+	Today     : Researched ways/asked group members ways we could fix the problem.
+	Obstacles : Same as yesterday, asked other group members for help.
+
+Nov 4, 2018
+	Yesterday : Asked group members for help, in finding a ways to fix how the shape is chosen
+	Today     : With help of group member, came to solution of using ID of the button instead of the text. Finsihed Bug1
+	Obstacles : Took quite some time to fix something this trivial... 
+
+Nov 5, 2018
+	Yesterday : Finally found solution to button issue
+	Today     : Took a break as we all have STA256 test tomorrow...
+	Obstacles : Getting 4.0 in STA256
+
+Nov 6, 2018
+	Yesterday : Up all night studying stats... 
+	Today     : Had meeting for sprint 2. We assigned the rolls. This sprint, I will be working on Bug3
+	Obstacles : N/A
+
+Nov 7, 2018
+	Yesterday : Discussed rolls for this sprint. 
+	Today     : Researched ways to improve the architecture behind selection mode. 
+	Obstacles : Had trouble understanding what exactly my task is.
+
+Nov 8, 2018
+	Yesterday : Researched the different design patterns. 
+	Today     : Tried the some of the design patterns for Bug3. Came to conclusion that Strategy would be best
+	Obstacles : It took me some time to realize how i could implement the Strategy design pattern into our code.
+
+Nov 9, 2018
+	Yesterday : Realized Strategy design pattern would be the best. Ran into some issues trying to implement it
+	Today     : Finished implementing Strategy into our PaintPanel (Bug3) and had a Group Scrum meeting. We decided that
+				I would work on bug 9, Patrick on bug 8, Bill on bug 7 and then Daniel on square.  
+	Obstacles : Understanding what each bug really means.
+
+Nov 10, 2018
+	Yesterday : Assigned roles for sprint 3.
+	Today     : Started working on bug 9. 
+	Obstacles : Was confused as to what I would have to do, seems similar to bug 3...
+	
+Nov 11, 2018
+	Yesterday : Looked over code from bug 3, and looked for ways to make improvements
+	Today     : N/A
+	Obstacles : I had work 10-7... studied for 236 test after work, did not have much time.
+	
+Nov 12, 2018
+	Yesterday : N/A
+	Today     : Finished Bug9. 
+	Obstacles : It took sometime changing the names of the classes to make it proper form
+
+Nov 13, 2018
+	Yesterday : Finished Bug9
+	Today     : Took a break as we all have CSC236 test tomorrow...
+	Obstacles : Getting 4.0 in CSC236
+
+Nov 14, 2018
+	Yesterday : Up all night studying cs theory
+	Today     : Had group meeting, added a bunch of bugs and userstories 
+				Started Bug13, Finished Bug13'
+				Started UserStory10, Finished UserStory10. Just need to merge tmmr. 
+	Obstacles : In US10, there is a problem, as when the clear button is
+				clicked, not all the items of polyline would be cleared 
+				if polyline was last selected. 
+Nov 15, 2018
+	Yesterday : Finished Bug13, UserStory10
+	Today     : Starting UserStory11, Finished UserStory11 
+	Obstacles : 

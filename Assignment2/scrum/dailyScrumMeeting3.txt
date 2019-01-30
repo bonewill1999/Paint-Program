@@ -1,0 +1,96 @@
+# Fill in, commit and push each day.
+# Group Member: chukuan1
+Oct 28, 2018
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Oct 29, 2018
+	Yesterday : N/A
+	Today     : Decided on meEting at DH tmmr at 5pm.
+	Obstacles : N/A
+
+Oct 30, 2018
+	Yesterday : Discussed first group meeting.
+	Today     : Divided work on product backlog, I will be doing US1,US2,B1
+	Obstacles : Figuring out who will do what on this sprint.
+
+Oct 31, 2018
+	Yesterday : Researched git branching
+	Today     : Started on UserStory5
+	Obstacles : Unsure how to create button with color instead of text.
+
+Nov 1, 2018
+	Yesterday : Started on UserStory5 and are still working on it
+	Today     : Partially finished UserStory5, if UI doesn't matter it is done for sample colors
+	Obstacles : Thinking how to expand and make the button responsive
+
+Nov 2, 2018
+	Yesterday : Did button that changes color
+	Today     : Added some javadoc to the code
+	Obstacles : N/A
+
+Nov 3, 2018
+	Yesterday : Added some javadoc
+	Today     : Added more javadoc, plus added a Testing branch for a possible solution to Bug1
+	Obstacles : N/A
+
+Nov 4, 2018
+	Yesterday : Added some javadoc
+	Today     : Studied for STA test instead of doing 207
+	Obstacles : N/A
+
+Nov 5, 2018
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 6, 2018
+	Yesterday : N/A
+	Today     : Fixed Bug2, assigned the role for sprint 2
+	Obstacles : N/A
+
+Nov 7, 2018
+	Yesterday : Fixed Bug2
+	Today     : Started working on UserStory8
+	Obstacles : Confused on basic feature of polyline
+
+Nov 8, 2018
+	Yesterday : Worked on UserStory8
+	Today     : Tried to get Polyline working
+	Obstacles : Uncertain how to keep track of the points in array of double
+
+Nov 9, 2018
+	Yesterday : Worked on Polyline
+	Today     : Continue to work on polyline
+	Obstacles : N/A
+
+Nov 10, 2018
+	Yesterday : Worked on Polyline
+	Today     : Continued to work on polyline
+	Obstacles : N/A
+	
+Nov 11, 2018
+	Yesterday : Worked on polyline
+	Today     : Finished polyline
+	Obstacles : N/A
+	
+Nov 12, 2018
+	Yesterday : Finished Polyline
+	Today     : Started and finished working on Square
+	Obstacles : N/A
+
+Nov 13, 2018
+	Yesterday : Finished square
+	Today     : Fixed Slider for thickness, and removed thickness button
+	Obstacles : N/A
+
+Nov 14, 2018
+	Yesterday : Fixed Slider
+	Today     : Fixed Squiggle where thickness was incorrect. Added Eventhandler
+	Obstacles : N/A
+	
+Nov 15, 2018
+	Yesterday : Fixed some stuff
+	Today     : Finalized the assignment
+	Obstacles : Time

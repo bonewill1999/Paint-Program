@@ -1,0 +1,91 @@
+# Fill in, commit and push each day.
+# Group Member: hogevee7
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :Decided on meeting at DH tomorrow
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :decided when/ where to meet
+	Today     :Divided work, I will work on UserStory 6
+	Obstacles :Dividing the work took awhile
+
+Oct 31, 2018
+	Yesterday :
+	Today     :Finished implementing fill on the circle
+	Obstacles :Have to wait for rectangle to be implemented before I can fill
+
+Nov 1, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday :
+	Today     :Implemented fill on rectangles
+	Obstacles :
+
+Nov 3, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 6, 2018
+	Yesterday :
+	Today     :Decided on rolls for sprint 2
+	Obstacles :Dividing up the work took longer than expected
+
+Nov 7, 2018
+	Yesterday :Assigned rolls for sprint 2
+	Today     :Worked on Bug5 
+	Obstacles :
+
+Nov 8, 2018
+	Yesterday :Worked on bug 5 fixing squiggle
+	Today     :Finished bug 5 merged and pushed
+	Obstacles :Difficulty get it to draw
+
+Nov 9, 2018
+	Yesterday :Finished bug 5
+	Today     :Discussed how to fix more of the bugs together
+	Obstacles :The explanations for each bug are not very good
+
+Nov 10, 2018
+	Yesterday :Discussed bugs as a group
+	Today     :Implemented bug 8 fixes for fill and thickness
+	Obstacles :Understand bug 8
+	
+Nov 11, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 12, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 13, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
